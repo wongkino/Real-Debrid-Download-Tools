@@ -32,33 +32,25 @@ Method 1️⃣: Run Locally
 1️⃣ Install Python dependencies
 
 Make sure Python 3 is installed, then run the following command:
-bash
-複製
-編輯
+
 pip install -r requirements.txt
 2️⃣ Start the Web Server
 
-bash
-複製
-編輯
 python app.py
 3️⃣ Open the Web Interface
 
 Visit http://localhost:5000 in your browser to use the tool.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Method 2️⃣: Run with Docker
 If you prefer to run this tool as a Docker container, follow these steps:
 
 1️⃣ Build the Docker image
 
-bash
-複製
-編輯
 docker build -t real-debrid-web .
 2️⃣ Run the Docker container
 
-bash
-複製
-編輯
 docker run -d -p 5000:5000 real-debrid-web
 3️⃣ Open the Web Interface
 
