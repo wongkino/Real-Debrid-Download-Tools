@@ -24,7 +24,7 @@ Uploads them to Real-Debrid and selects all files for download.
 Generates high-speed direct links that can be used in IDM or other download managers.
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 🔹 Installation Guide
@@ -41,7 +41,7 @@ python app.py
 
 Visit http://localhost:5000 in your browser to use the tool.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 Method 2️⃣: Run with Docker
 If you prefer to run this tool as a Docker container, follow these steps:
