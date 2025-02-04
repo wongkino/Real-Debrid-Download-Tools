@@ -1,3 +1,5 @@
+https://github.com/wongkino/Real-Debrid-Download-Tools/blob/main/Peview.png
+
 Real-Debrid Web Download Tool - What is it for?
 This Real-Debrid Web Download Tool is designed to make downloading torrents and magnet links faster and easier by leveraging Real-Debrid's premium service.
 
