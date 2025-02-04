@@ -26,8 +26,31 @@ Generates high-speed direct links that can be used in IDM or other download mana
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Before running this tool, you must replace the Real-Debrid API Token, or it will not work properly.
 
-🔹 Installation Guide
+📌 How to Change the API Token?
+1️⃣ Get Your Real-Debrid API Token
+
+Log in to Real-Debrid Official Website
+https://real-debrid.com/devices
+Go to "API Private Token" > "API"
+
+Copy your API Token (e.g., abcdef1234567890)
+
+2️⃣ Update the app.py File
+
+Open app.py
+Find this line:
+
+API_TOKEN = "YOUR_REAL_DEBRID_API_TOKEN"
+Replace "YOUR_REAL_DEBRID_API_TOKEN" with your actual API Token, for example:
+
+API_TOKEN = "abcdef1234567890"
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+🔹 Installation Guide 🔹 
 Method 1️⃣: Run Locally
 1️⃣ Install Python dependencies
 
@@ -59,7 +82,7 @@ Visit http://localhost:5000 to start using the tool!
 
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 
